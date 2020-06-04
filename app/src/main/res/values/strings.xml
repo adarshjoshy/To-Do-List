@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add">ADD</string>
+    <string name="default_time">12:00 AM</string>
+    <string name="set_time">Set Time :</string>
+    <string name="hint_text">Enter the name of Task / Event</string>
+    <string name="task_text">Enter Task :</string>
+    <string name="pomodoro_string">Pomodoro</string>
+    <string name="start_task_string">Start Task</string>
+    <string name="default_time_string">25:00</string>
+    <string name="break_time_string">5:00</string>
+    <string name="break_string">Take a break</string>
+    <string name="pause_string">Pause Task</string>
+    <string name="choose_your_tasks_string">Choose your task(s)</string>
+    <string name="work_25_mins_string">Work for next 25 minutes</string>
+    <string name="t5_mins_break_string">Take a 5 minute break</string>
+    <string name="repeat_string">Repeat 3-4 times</string>
+    <string name="restart_pomodoro_string">Restart Pomodoro</string>
+    <string name="all_tasks_string">All Tasks</string>
+    <string name="task_listitem_string">Task</string>
+    <string name="date_listitem_string">Date</string>
+    <string name="time_listitem_string">Time</string>
+</resources>
